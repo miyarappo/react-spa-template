@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/miyarappo/react-spa-template/issues"
   },
-  "homepage": "https://github.com/miyarappo/react-spa-template#readme"
+  "homepage": "https://github.com/miyarappo/react-spa-template#readme",
+  "dependencies": {
+    "webpack": "^4.32.2"
+  }
 }

@@ -19,5 +19,8 @@
   "homepage": "https://github.com/miyarappo/react-spa-template#readme",
   "dependencies": {
     "webpack": "^4.32.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.2"
   }
 }

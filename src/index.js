@@ -5,4 +5,4 @@ import Counter from './Counter';
 ReactDOM.render(
   <Counter />,
   document.getElementById('root')
-)
+);
